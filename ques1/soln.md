@@ -27,7 +27,7 @@
 
 
 
-## `04 // PYTHON IMPLEMENTATION`
+## `// PYTHON IMPLEMENTATION`
 
 ```python
 from collections import deque
