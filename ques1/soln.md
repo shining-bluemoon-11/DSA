@@ -1,8 +1,8 @@
-# `zer0OoO0` // SOLUTION ARCHIVE
+# `zer0OoO0` // SOLUTION 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:09090B,50:27272A,100:4C1D95&text=DAY%20002&fontColor=E4E4E7&fontSize=48&fontAlignY=50&animation=fadeIn&stroke=6D28D9&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:09090B,50:27272A,100:4C1D95&text=DAY%20001&fontColor=E4E4E7&fontSize=48&fontAlignY=50&animation=fadeIn&stroke=6D28D9&strokeWidth=1" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=QUEUE+%2B+STACK+%2B+TREE;BFS+%2F%2F+HASHING+%2F%2F+PATH+RECONSTRUCTION;ANOMALY+DETECTED+%3A%3A+SOLUTION+UNLOCKED" />
 
